@@ -1,0 +1,2 @@
+# optimizacion-portafolio
+Proyecto IDO
